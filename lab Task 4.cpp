@@ -37,7 +37,7 @@ int main() {
     /*int x;
 
     cout << x << endl;*/
-
+    // If we run the code when trying to print an initialized variable
     //problem: the programme gives error due to use of uninnatialized varibale. 
 
     return 0;
