@@ -6,7 +6,7 @@
 //
 //int main() 
 //{
-//    // 1. using cout staement to print "hello world!"
+//    // 1. using cout statement to print "hello world!"
 //    cout << "Hello World!\n";
 //
 //    // 2. using one cout statement to print three statements and giving space using \n instead of endl  
