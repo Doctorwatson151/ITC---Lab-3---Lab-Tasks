@@ -6,8 +6,8 @@
 //
 //int main()
 //{
-//	cout << "Orientation Day" << endl;  // semiclon had to be added
-//		cout << "Total students: " << 450 << endl; // doubke less then symbolls were to be placed.
+//	cout << "Orientation Day" << endl;  // semicolon had to be added
+//		cout << "Total students: " << 450 << endl; // double less then symbolls were to be placed.
 //	cout << "Seats left: " << 500 - 450 << endl;
 //	cout << "Have a nice day" << endl; // double qoutation marks were added
 //		return 0;
@@ -25,7 +25,7 @@
 //	cout << "Average: " << (60 + 70 + 80) / 3 << endl;
 //                                  
 //                                     // It was a semantic error cuased by the prgrammers 
-//	                                   //logiacl structure of the code
+//	                                   //logical structure of the code
 //	                                   //two brackets were added so the pragramme becomes logically correct 
 //                                     //and gives the answer required.
 //  
