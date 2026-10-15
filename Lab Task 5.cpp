@@ -49,7 +49,7 @@
 //     and then separated by tabs. Is the result different? Why?*/
 //
 //  /* Ans: 1. When all the values are written on same line seperated by spaces 
-//       the program runs logically fine and gives correct ans it just lags as in the satement asking for 
+//       the program runs logically fine and gives correct ans it just runs abnormally as in the satement asking for 
 //       credits hours and fee per credit is printed after that and it runs the whole program as it has 
 //        already taken all the values from the user...     NOTE: I am usning VS 2026
 //        2. When the program is run and all the values are typed on different lines then the program runs
