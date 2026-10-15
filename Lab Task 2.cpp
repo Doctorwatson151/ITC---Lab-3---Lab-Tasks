@@ -1,6 +1,6 @@
 //#include <iostream>
 //
-//using namespace std;  // cout was undefined because wither we have to write usingnamespace std or
+//using namespace std;  // cout was undefined because either we have to write usingnamespace std or
 //                      //write std:: with every Standard Library component that we use. 
 //
 //
